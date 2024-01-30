@@ -1,3 +1,6 @@
 [submodule "lighthouse"]
 	path = lighthouse
 	url = git@github.com:thor314/lighthouse.git
+[submodule "imp"]
+	path = imp
+	url = git@github.com:thor314/imp.git
