@@ -7,3 +7,6 @@
 [submodule "trycmd"]
 	path = trycmd
 	url = git@github.com:thor314/trycmd.git
+[submodule "shuttle-diesel-async"]
+	path = shuttle-diesel-async
+	url = git@github.com:thor314/shuttle-diesel-async.git
