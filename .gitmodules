@@ -10,3 +10,6 @@
 [submodule "shuttle-diesel-async"]
 	path = shuttle-diesel-async
 	url = git@github.com:thor314/shuttle-diesel-async.git
+[submodule "oxide-auth"]
+	path = oxide-auth
+	url = git@github.com:thor314/oxide-auth.git
